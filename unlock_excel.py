@@ -3,7 +3,7 @@ import pandas as pd
 import io
 
 # File paths
-input_file = "protected.xlsx"  # Change this to your actual file
+input_file = "excel_files/protected.xlsx"  # Change this to your actual file
 output_file = "unlocked.xlsx"
 
 # Enter the password (if you remember it)
